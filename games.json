@@ -40,6 +40,16 @@
         "type": "app"
     },
     {
+        "id": "footyredraft",
+        "title": "Footy Redraft",
+        "category": "Sports",
+        "genre": "AFL / Management",
+        "description": "Inherit a real AFL club, draft your squad season-by-season, trade players, and build a championship dynasty.",
+        "url": "https://alexhudooo4.github.io/footy-redraft/",
+        "thumb": "footyredraft.png",
+        "type": "app"
+    },
+    {
         "id": "scratch",
         "title": "Scratch Editor",
         "category": "Creative",
