@@ -4047,4 +4047,10 @@
         "url": "https://raw.githack.com/hazzatazza/the-stash/main/singlefileoffline/ragdoll-soccer.html",
         "thumb": "ragdollsoccer.png"
     }
+    {
+    "id": "tubitv",
+    "title": "Tubi TV",
+    "url": "https://tubitv.com/en-au",
+    "thumb": "tubitv.png",
+    }
 ]
