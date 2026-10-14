@@ -4048,9 +4048,9 @@
         "thumb": "ragdollsoccer.png"
     }
     {
-    "id": "tubitv",
-    "title": "Tubi TV",
-    "url": "https://tubitv.com/en-au",
-    "thumb": "tubitv.png",
-    }
+  "id": "tubi",
+  "title": "Tubi",
+  "url": "https://tubitv.com/",
+  "thumb": "tubitv.png"
+}
 ]
